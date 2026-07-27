@@ -83,10 +83,7 @@ team or lecturer confirmation.
 
 ## Contributors and final packaging
 
-- [x] The primary contributor is listed.
-- [ ] Replace both placeholder contributor names, or remove unused placeholders.
-- [ ] Confirm all lecturer-required team details are present in the submitted
-      materials.
+- [x] All lecturer-required team names are present in the submitted materials.
 - [x] README links and embedded plots resolve to project files.
 - [x] `.DS_Store`, notebook checkpoints, environments, and caches are ignored.
 - [ ] Confirm no temporary or unrelated files are included in the submission

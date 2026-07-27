@@ -23,6 +23,8 @@ service, contract, and billing data. It combines careful data validation, six
 focused exploratory views, leakage-safe model selection, and interpretable
 model artifacts in one end-to-end notebook.
 
+**Project team:** Menachem Twersky · Roni Reichbard · Sapir Pirski
+
 ## Results at a glance
 
 | Dataset | Predictive features | Models compared | Best test accuracy |
