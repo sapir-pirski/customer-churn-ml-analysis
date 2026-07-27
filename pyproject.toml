@@ -1,0 +1,20 @@
+[project]
+name = "customer-churn-final-project"
+version = "1.0.0"
+description = "Reproducible customer-churn analysis and required ML model comparison"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "MIT"
+dependencies = [
+    "ipykernel==6.31.0",
+    "jupyterlab==4.6.2",
+    "matplotlib==3.11.1",
+    "numpy==2.5.1",
+    "pandas==2.3.3",
+    "scikit-learn==1.9.0",
+    "scipy==1.18.0",
+    "seaborn==0.13.2",
+]
+
+[tool.uv]
+package = false
